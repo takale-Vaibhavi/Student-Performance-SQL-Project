@@ -41,13 +41,14 @@ Records: 649 Students
 
 ## Business Questions
 
-1. How many students are in the dataset?
-2. Which gender performs better?
-3. Does study time improve grades?
-4. Do failures affect grades?
-5. Does internet access improve performance?
-6. Which students score above average?
-
+1. Does study time improve grades?
+2. Which age group performs best?
+3. How is the second topper?
+4. How is the topper?
+5. How many students are in the dataset?
+6. Rank students from highest marks.
+7. Which gender performs better?
+8. Who are the highest-performing students?
 ---
 
 ## Key Insights
